@@ -1,4 +1,3 @@
-// models/userSchema.js
 const { Pool } = require('pg');
 
 // PostgreSQL connection configuration
