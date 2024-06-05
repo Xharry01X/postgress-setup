@@ -15,7 +15,7 @@ services:
 
 # interface for looking database
   adminer:
-    image: adminer
+   
     restart: always
     ports:
       - 8080:8080
